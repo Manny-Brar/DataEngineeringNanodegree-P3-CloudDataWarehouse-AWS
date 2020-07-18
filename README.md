@@ -1,1 +1,0 @@
-# DataEngineeringNanodegree-P3-CloudDataWarehouse-AWS
